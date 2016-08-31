@@ -19,6 +19,13 @@ Whiteboard interviewers _should_ ideally be checking your problem solving skills
 
 ## Exercise
 
+This relates to Step #4 in Polya's method:
+
+1. Understand the problem
+1. Devise a plan
+1. Carry out the plan
+1. **Look back**
+
 Before calling it "done" (or if an interviewer says "Ready to ship?") run through your code with _actual values_.
 
 > PROTIP:  "Test the code you _wrote_, not the code you _thought_ you wrote" <-- Experienced Google Interviewer

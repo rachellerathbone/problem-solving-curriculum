@@ -16,6 +16,13 @@ A _good_ whiteboard interviewer is looking for your problem solving skills.
 
 ## How it works
 
+This relates to Step #1 in Polya's method:
+
+1. **Understand the problem**
+1. Devise a plan
+1. Carry out the plan
+1. Look back
+
 In real life product managers / project managers may not give you all of the edge cases.  They'll rely on you to figure them out.  They'll give you a story like "users can sign in" and a wireframe and it's your job to say:
 
 - "What happens when the email has a space in the beginning or end?  Do we trim that or just let it fail?"

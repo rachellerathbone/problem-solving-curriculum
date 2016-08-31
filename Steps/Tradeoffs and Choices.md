@@ -21,6 +21,13 @@ We train on this step so that they can see, in 20 minutes, what we see in you ev
 
 ## How it works
 
+This relates to Step #2 in Polya's method:
+
+1. Understand the problem
+1. **Devise a plan**
+1. Carry out the plan
+1. Look back
+
 In real life, when you sit down to solve a problem you have a myriad of choices to make.  PostgreSQL or MySQL or Mongo?  Express or Koa?  Angular or React?  Each one has its merits and tradeoffs, and you have to both make a call, and also know why you are making that call in case situations change and you need to adapt to new requirements.  You'll often want to talk about these solutions before writing code, get feedback from the team, or at least have some sense of
 
 In whiteboard interviews, there's a microcosm of this where you have to choose which approach you are going to take, and what data structures you are going to use.  Is an accumulator?  `for` loops or `while` loops?  `if` statements or `switch` statements?  Should you store data in Objects or Arrays?

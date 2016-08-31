@@ -18,6 +18,13 @@ Second, if you can fill in the boilerplate parts of your code _automatically_ th
 
 ## How it works
 
+This relates to Step #3 in Polya's method:
+
+1. Understand the problem
+1. Devise a plan
+1. **Carry out the plan**
+1. Look back
+
 Whenever you are faced with a problem one of the first steps is likely to identify the [inputs and outputs](./Inputs and Outputs.md).  Next you'll probably figure out a decent name for your classes/methods/functions.  With this information, you have enough to write the following boilerplate code:
 
 - The class/method/function definition with inputs
