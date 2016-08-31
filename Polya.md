@@ -1,1 +1,0 @@
-- [Polya's Problem Solving Techniques](https://math.berkeley.edu/~gmelvin/polya.pdf)

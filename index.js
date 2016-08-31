@@ -4,19 +4,39 @@ module.exports = {
 
   sections: [
     {
-      title: 'Common Problem Solving Steps',
+      title: "Applying Polya's Techniques to Software",
       links: [
-        {text: 'Step 1: Identify Inputs and Outputs', url: './Steps/Inputs and Outputs.md'},
-        {text: 'Step 2: Ask "What if" Questions', url: './Steps/What If Questions.md'},
-        {text: 'Step 3: Identify Tradeoffs and Make Choices', url: './Steps/Tradeoffs and Choices.md'},
-        {text: 'Step 4: Write Boilerplate "Sandwich" Code', url: './Steps/Sandwich Code.md'},
         {
-          text: 'Step 5: Solve the Problem :)',
+          text: "Understand the Problem",
           links: [
-            {text: 'Data Structure Brainstorm', url: './Steps/Data Structure Brainstorm.md'},
+            {text: 'Step 1: Identify Inputs and Outputs', url: './Steps/Inputs and Outputs.md'},
+            {text: 'Step 2: Ask "What if" Questions', url: './Steps/What If Questions.md'},
           ]
         },
-        {text: 'Step 6: Test the Solution', url: './Steps/Test Your Solution.md'},
+        {
+          text: 'Devise a Plan',
+          url: './Steps/Tradeoffs and Choices.md',
+          links: [
+            {text: "Come up with more than one plan"},
+            {text: "Evaluate your potential solutions and choose the most appropriate"},
+          ]
+        },
+        {
+          text: 'Carry Out the Plan',
+          url: './Steps/Sandwich Code.md',
+          links: [
+            {text: "Quickly dispense with boilerplate code"},
+            {text: "Write code 'outside in'"},
+          ]
+        },
+        {
+          text: 'Look Back',
+          url: './Steps/Test Your Solution.md',
+          links: [
+            {text: 'Test every branch of your solution'},
+            {text: 'Try to break your solution / do QA'},
+          ]
+        },
       ]
     },
 
