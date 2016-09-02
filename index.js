@@ -41,6 +41,13 @@ module.exports = {
     },
 
     {
+      title: 'Warmups',
+      links: [
+        {text: 'Making the Most of Warmups', url: './Warmups.md'},
+      ]
+    },
+
+    {
       title: 'The **Solve It!** Drill and Schedule',
       links: [
         {text: 'Introduction', url: './Solve It/README.md'},

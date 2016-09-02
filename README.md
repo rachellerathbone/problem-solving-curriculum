@@ -30,6 +30,10 @@ Those seem like very high-level descriptions, and if you read [Berkeley's overvi
    1. Test every branch of your solution
    1. Try to break your solution / do QA
 
+## Warmups
+
+1. [Making the Most of Warmups](./Warmups.md)
+
 ## The **Solve It!** Drill and Schedule
 
 1. [Introduction](./Solve It/README.md)
