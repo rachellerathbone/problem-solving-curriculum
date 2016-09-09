@@ -18,17 +18,19 @@ Those seem like very high-level descriptions, and if you read [Berkeley's overvi
 ## Applying Polya's Techniques to Software
 
 1. Understand the Problem
-   1. [Step 1: Identify Inputs and Outputs](./Steps/Inputs and Outputs.md)
-   1. [Step 2: Ask "What if" Questions](./Steps/What If Questions.md)
+   1. [Identify Inputs and Outputs](./Steps/Inputs and Outputs.md)
+   1. [Ask "What if" Questions](./Steps/What If Questions.md)
 1. [Devise a Plan](./Steps/Tradeoffs and Choices.md)
-   1. Come up with more than one plan
-   1. Evaluate your potential solutions and choose the most appropriate
+   1. Come up with more than one possible solution
+   1. Choose a solution based on Performance, Maintainability and your Capability
 1. [Carry Out the Plan](./Steps/Sandwich Code.md)
    1. Quickly dispense with boilerplate code
    1. Write code 'outside in'
 1. [Look Back](./Steps/Test Your Solution.md)
-   1. Test every branch of your solution
-   1. Try to break your solution / do QA
+   1. Check for correctness
+   1. Look for opportunities to refactor
+      1. DRY
+      1. SOLID
 
 ## Warmups
 

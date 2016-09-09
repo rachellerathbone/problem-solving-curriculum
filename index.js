@@ -9,16 +9,16 @@ module.exports = {
         {
           text: "Understand the Problem",
           links: [
-            {text: 'Step 1: Identify Inputs and Outputs', url: './Steps/Inputs and Outputs.md'},
-            {text: 'Step 2: Ask "What if" Questions', url: './Steps/What If Questions.md'},
+            {text: 'Identify Inputs and Outputs', url: './Steps/Inputs and Outputs.md'},
+            {text: 'Ask "What if" Questions', url: './Steps/What If Questions.md'},
           ]
         },
         {
           text: 'Devise a Plan',
           url: './Steps/Tradeoffs and Choices.md',
           links: [
-            {text: "Come up with more than one plan"},
-            {text: "Evaluate your potential solutions and choose the most appropriate"},
+            {text: "Come up with more than one possible solution"},
+            {text: "Choose a solution based on Performance, Maintainability and your Capability"},
           ]
         },
         {
@@ -33,8 +33,14 @@ module.exports = {
           text: 'Look Back',
           url: './Steps/Test Your Solution.md',
           links: [
-            {text: 'Test every branch of your solution'},
-            {text: 'Try to break your solution / do QA'},
+            {text: 'Check for correctness'},
+            {
+              text: 'Look for opportunities to refactor',
+              links: [
+                {text: "DRY",},
+                {text: "SOLID",},
+              ],
+            },
           ]
         },
       ]
