@@ -10,7 +10,7 @@ By the end of this training, you should be able to perform the following steps c
 
 - Confirm 2-3 inputs/outputs with the interviewer
 - Ask questions that could reveal hidden requirements
-- Write sandwich code for a an accumulator pattern
+- Write sandwich code for an accumulator pattern
 - Describe more than one approach and choose one with a reason
 - Run through the code with actual values, checking at every iteration
 
